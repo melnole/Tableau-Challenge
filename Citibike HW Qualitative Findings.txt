@@ -1,0 +1,35 @@
+For the dataset, i used Jersey City for Q4 2019 and Q1 2020 due to the large amount of data available, i had to
+cut down somewhere.
+
+Summaries by Tab:
+
+Females by Month tab:
+There was an implication in the HW Readme that there was an initiative to get more female ridership.
+This chart shows that female ridership declined in volume over certain months, share of female ridership
+has remained stable. This is positive news in that there is no loss, however, there is no growth either.
+
+Monthly Change tab:
+There was an increase in ridership for January vs December. 
+Though I don't have the analysis to support my theory, 
+I'd imagine that volume of riders was down in December since most people take off
+multiple days or even weeks during this time of year. Since the busiest 
+start station is at a PATH, my assumption is that the bulk of people from the station
+generating the most starts are communters to work. Therefore, people taking vacation
+for the holidays from work caused a decline in December and therefore an increase in
+January vs December as things got back to normal.
+
+Short term v annual tab:
+I'm not certain if COVID could have an effect on subscriber type but we see an
+increase in share of customers in the month of March. This could be people who are 
+no longer allowed to go to the office, and or have been furloughed and using the bikes
+in a more leisurely manner as opposed to using for commuting.
+
+Number of Riders and Trip Duration tabs:
+Although number of riders has decreased, trip duration has increased, supporting a theory
+in the previous tab about the journey type changing from commuter to leisurely, possibly
+as an effect of COVID (furloughs or otherwise).
+
+Basic map tab:
+The Grove Street PATH station is not surprisingly, the station most often used as a start 
+station for citibikes. This is expected, as PATH is a major transportation hub which commuters
+ would arrive at, then rent and take a citibike to their respective places of employment or otherwise.
